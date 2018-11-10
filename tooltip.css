@@ -1,0 +1,14 @@
+.tooltip {
+    max-width: 300px;
+    top:100px;
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+    border-radius: 6px;
+    z-index: 1
+}
+
+.wk_highlight{
+  text-decoration: underline;
+
+}
